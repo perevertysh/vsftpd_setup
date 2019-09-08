@@ -1,6 +1,3 @@
-# import requests
-# import pprint
-# import re
 import os
 import argparse
 import random
