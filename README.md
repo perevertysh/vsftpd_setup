@@ -1,5 +1,5 @@
 # vsftpd_setup
 
-script for setup settings and add local users to your vsftpd server
+script for setup settings and adding local users to your vsftpd server
 
-for linux systems, need sudo access
+needs su permission for linux systems
